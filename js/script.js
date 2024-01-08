@@ -6,3 +6,9 @@ console.log('JS OK');
 // 4. prendo l'id dell'ul
 // 5. inizzializo il ciclo while
 // 6. creo gli elementi all'interno dell'ul
+
+
+// 1. Creo una lista della spesa;
+
+const listaSpesa = ['detersivi', 'pane', 'latte', 'frutta', 'verdura'];
+console.log(listaSpesa);
